@@ -35,7 +35,6 @@ public class Main {
 	        {
 	        	System.out.println('F');
 	        }
-	       
 	        /*switch(inputNum/10)
 	        {
 	        case 9:System.out.println('A');break;
